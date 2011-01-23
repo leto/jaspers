@@ -30,6 +30,9 @@ theoretical introduction to Parsing Expression Grammars [3].
 
 
 [0] http://pegjs.majda.cz/
+
 [1] http://whiteknight.github.com/2010/12/07/javascript_on_parrot_plan.html
+
 [2] http://www.sergimansilla.com/blog/writing-a-javascript-interpreter-for-dbn-using-canvas-I/
+
 [3] http://brynosaurus.com/pub/lang/peg-slides/index.html
