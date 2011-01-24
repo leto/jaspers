@@ -29,10 +29,11 @@ This blog post about implementing a lisp with PEG.js and node [using_pegjs] is a
 example of using PEG.js, and this presentation by Bryan Ford is a good
 theoretical introduction to Parsing Expression Grammars [peg_theory].
 
+
 [pegjs_homepage]: http://pegjs.majda.cz
 
-[whiteknight] http://whiteknight.github.com/2010/12/07/javascript_on_parrot_plan.html
+[whiteknight]: http://whiteknight.github.com/2010/12/07/javascript_on_parrot_plan.html
 
-[using_pegjs] http://www.sergimansilla.com/blog/writing-a-javascript-interpreter-for-dbn-using-canvas-I/
+[using_pegjs]: http://www.sergimansilla.com/blog/writing-a-javascript-interpreter-for-dbn-using-canvas-I/
 
-[peg_theory] http://brynosaurus.com/pub/lang/peg-slides/index.html
+[peg_theory]: http://brynosaurus.com/pub/lang/peg-slides/index.html
