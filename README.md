@@ -8,7 +8,8 @@ which flavor of JS to use has not been decided yet.
 Features
 --------
 
-None yet.
+Parses javascript with a PEG.js-generated parser. This is a JSON datastructure.
+Currently works with Nodejs 0.2.5
 
 
 Vision
