@@ -1,1 +1,3 @@
-2 + 3 ;
+var f = function() {
+    return 42;
+};

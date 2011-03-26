@@ -5,9 +5,9 @@ var source   = "";
 // Less Than Awesome
 require('./lib/javascriptParser.js');
 
-fs.readFile('test.js', function (err, data) {
-  if (err) throw err;
-  source = data;
-});
+source = "" + fs.readFileSync('./test.js');
 
-jsParser.parse(source);
+var ast = jsParser.parse(source);
+console.dir(ast);
+
+
