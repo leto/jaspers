@@ -10,4 +10,8 @@ source = "" + fs.readFileSync('./test.js');
 var ast = jsParser.parse(source);
 console.dir(ast);
 
+var elem = ast.elements[0].declarations[0];
+console.dir(elem);
+
+console.dir( elem.value.elements );
 
