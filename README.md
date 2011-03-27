@@ -14,6 +14,14 @@ Features
 Parses javascript with a PEG.js-generated parser. This is a JSON datastructure.
 Jaspers is currently known to work with Nodejs 0.2.5 and 0.4.4.
 
+Trying Jaspers
+--------------
+
+Jaspers has a very limited feature set right now, but if you want to kick the tires,
+you can run
+
+    node jaspers.js
+
 
 Vision
 ------------
