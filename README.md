@@ -39,6 +39,10 @@ generating a bootstrapped stage 1 compiler, full of unicorns dipped in fairy dus
 It has not yet been decided what the stage-0 compiler should target. Currently the
 choices are PIR/PAST/POST/PBC.
 
+Sputnik, a Javascript conformance test suite, looks like it could be very useful:
+
+http://sputnik.googlelabs.com/
+
 Fellow Travelers
 ---------------
 This blog post about implementing a lisp with PEG.js and node [using_pegjs] is a good
